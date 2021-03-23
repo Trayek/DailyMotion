@@ -14,3 +14,5 @@ Line 22: Replace [your-template-id-here] with the ID of your template to base th
 Make sure you specify your Content-Security-Policy as well by adding: 
 connect-src 'self' https://*.dailymotion.com/;
 (or similar). 
+
+Copy/paste the App_Data folder to your webroot, and serialize the tree.
